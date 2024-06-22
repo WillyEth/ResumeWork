@@ -1,0 +1,95 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{helvet}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{sectsty}
+\renewcommand{\familydefault}{\sfdefault}
+\geometry{left=1in, right=1in, top=1in, bottom=1in}
+\definecolor{darkblue}{rgb}{0.0, 0.2, 0.6}
+\definecolor{lightgray}{rgb}{0.9, 0.9, 0.9}
+\sectionfont{\color{darkblue}}
+\titleformat{\section}{\large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+\begin{center}
+    {\huge \textbf{William Kroll}} \\
+    312-287-1978 | \texttt{bkroll@medline.com}
+\end{center}
+
+\vspace{0.2cm}
+\hrule
+\vspace{0.5cm}
+
+\section*{Professional Profile}
+Seasoned IT professional with over 25 years of expertise, specializing in SAP development and team leadership. Renowned for exceptional technical skills, strategic thinking, and effective communication. Adept at mentoring and collaborating with diverse teams to deliver high-quality solutions. Seeking to leverage extensive experience to drive innovative AI and ML initiatives as an AI Architect at Medline Industries.
+
+\section*{Summary of Qualifications}
+\begin{itemize}
+    \item \textbf{Leadership \& Team Management:} Proven track record of leading teams up to 100 professionals, fostering a culture of excellence and innovation.
+    \item \textbf{SAP Expertise:} Deep understanding of SAP frameworks, with extensive experience in S/4 HANA, ABAP, IDOC, and ALE development.
+    \item \textbf{Technical Proficiency:} Skilled in Python, JavaScript, React, FastAPI, Pandas, Flask, and PyCharm. Familiar with LM Models, Lane Chain, Hugging Face, and Co-Pilot.
+    \item \textbf{Middleware \& API Integration:} Proficient in middleware environments and API integration, ensuring seamless system interoperability.
+    \item \textbf{Strategic Roadmapping:} Experienced in developing and executing strategic roadmaps that align with business goals and drive digital transformation.
+    \item \textbf{Innovative Solutions:} Passion for leveraging technology to solve complex business challenges and enhance operational efficiency.
+\end{itemize}
+
+\section*{Professional Experience}
+\textbf{Medline Industries, Inc., Mundelein, Illinois} \\
+\textbf{SAP Development Team Lead} \\
+\textit{April 2005 – Present}
+\begin{itemize}
+    \item \textbf{Leadership \& Mentorship:} Currently leading a team of 100 developers, providing architecture consultation, conducting code reviews, and managing migration plans. Mentoring junior developers to enhance their skills and foster career growth.
+    \item \textbf{S/4 Unify Project:} Successfully spearheaded the first implementation of S/4 Unify, setting industry standards and ensuring seamless integration across departments.
+    \item \textbf{Technical Innovations:} Elevated the SAP development team by integrating object-oriented programming and DevOps practices, significantly improving development efficiency and product quality.
+    \item \textbf{SAP HANA Upgrade:} Served as the technical lead for the SAP HANA upgrade, enhancing system performance and data processing capabilities.
+    \item \textbf{Process Optimization:} Developed and optimized IDOCs and ALEs, streamlining business processes and improving data accuracy.
+\end{itemize}
+
+\textbf{IBM, Chicago, Illinois} \\
+\textbf{SAP ABAP Development Consultant} \\
+\textit{August 1998 – April 2005}
+\begin{itemize}
+    \item \textbf{Client Collaboration:} Delivered high-quality SAP ABAP development services to various clients, working closely with cross-functional teams to implement effective solutions.
+    \item \textbf{Customized Solutions:} Developed customized SAP applications, addressing specific client needs and improving operational efficiency.
+\end{itemize}
+
+\textbf{Skil/Bosch, Chicago, Illinois} \\
+\textbf{SAP ABAP Developer} \\
+\textit{January 1997 – August 1998}
+\begin{itemize}
+    \item \textbf{Application Development:} Developed and maintained SAP ABAP applications, ensuring they met business requirements and performed reliably.
+    \item \textbf{Stakeholder Engagement:} Worked closely with stakeholders to understand technical needs and deliver effective solutions.
+\end{itemize}
+
+\textbf{MetroMail, Lombard, Illinois} \\
+\textbf{COBOL/Assembler Developer} \\
+\textit{May 1995 – January 1997}
+\begin{itemize}
+    \item \textbf{Software Development:} Developed COBOL and Assembler programs, supporting data processing operations and ensuring high performance and reliability.
+\end{itemize}
+
+\section*{Education}
+\textbf{Bachelor of Computer Science} \\
+Northern Illinois University
+
+\section*{Skills}
+\begin{itemize}
+    \item \textbf{Programming Languages:} Python, JavaScript, React, FastAPI, Pandas, Flask, PyCharm (practical experience in projects and development tasks)
+    \item \textbf{SAP Technologies:} ABAP, S/4 HANA, IDOC, ALE, DevOps Integration
+    \item \textbf{Middleware \& API:} Comprehensive knowledge of middleware environments and API integration
+    \item \textbf{Leadership:} Team leadership, mentorship, project management
+    \item \textbf{AI \& ML Familiarity:} LM Models, Lane Chain, Hugging Face, Co-Pilot
+    \item \textbf{Strategic Planning:} SAP roadmap development, digital transformation strategies
+\end{itemize}
+
+\section*{Fun Fact}
+This resume was crafted using an engineered prompt into ChatGPT, Version 4.0, showcasing innovative AI capabilities and the future of resume writing.
+
+William Kroll is eager to bring his extensive experience, leadership skills, and 19 years of deep business knowledge at Medline Industries to the AI Architect position. He is ready to drive digital transformation and innovation in AI and ML, leveraging his expertise in Catalyst, Manufacturing, and Order to Cash processes to contribute to Medline's continued success.
+
+\end{document}
